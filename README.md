@@ -1,3 +1,5 @@
+NOTE: Delete the content of this README once you've created your own repo. Otherwise Copilot will think you are interested in copilot instructions.
+
 # template-copilot
 
 Template project containing the basic copilot files for AI assisted project generation.
